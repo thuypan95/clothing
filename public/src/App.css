@@ -1,0 +1,11 @@
+body{
+    padding: 20px 80px;
+    font-family: 'Dosis', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+*{
+    box-sizing: border-box;
+}
